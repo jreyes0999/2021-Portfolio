@@ -36,7 +36,7 @@
       },
       {
         "title": "Personal Website",
-        "startDate": "2018",
+        "startDate": "2021",
         "description": "Made a landing page with some information about myself alongside a short quiz that implements the use of JS. May end up changing the code to make a bit more sleek and as a resume.",
         "images": [
           "images/portfolio/website/p1.jpg",
@@ -89,15 +89,17 @@
     ],
     "experience": [
       {
-        "company": "Code Crew",
-        "title": "Future Full Stack Developer",
-        "years": "06.2021 - present",
+        "company": "TBA",
+        "title": "Full Stack Developer",
+        "years": "06.2021 - Present",
         "mainTech": [
           "JavaScript"
         ],
         "technologies": [
-          "JavaScript",
-          "Bootstrap"
+          "Bootstrap",
+          "HTML5",
+          "CSS",
+          "React"
         ]
       }
     ]
