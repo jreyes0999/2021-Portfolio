@@ -15,10 +15,10 @@
         "startDate": "2021",
         "description": "Created a website for the sale of salmon cookies, stylized the website as well as creating a table to calculate cookie sales.",
         "images": [
-          "images/portfolio/animal-shelter/slmcks.jpg",
-          "images/portfolio/animal-shelter/slmcks2.jpg"
+          "images/portfolio/salmon-cookies/slmcks.jpg",
+          "images/portfolio/salmon-cookies/slmcks2.jpg"
         ],
-        "url": "",
+        "url": "https://defluxit.github.io/cookie-stand/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -35,22 +35,26 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "Personal Website",
         "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "Made a landing page with some information about myself alongside a short quiz that implements the use of JS. May end up changing the code to make a bit more sleek and as a resume.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/website/p1.jpg",
+          "images/portfolio/website/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://defluxit.github.io/Code201-Lab02/",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           }
         ]
       },
@@ -71,6 +75,14 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           }
         ]
       }
